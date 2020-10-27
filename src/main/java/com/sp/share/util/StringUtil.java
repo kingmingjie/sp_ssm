@@ -3,7 +3,7 @@
  * EVECOM PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  * 
  */
-package com.sp.share;
+package com.sp.share.util;
 
 import org.apache.tomcat.util.codec.binary.Base64;
 
